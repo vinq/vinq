@@ -1,7 +1,5 @@
 - Hi, I’m @vinq
-- I’m interested in specific rare experimental developments, with money opportunities.
-- I’m currently learning basic game engines by writing prototypes.
-- I’m looking to collaborate on job posts holders with similiar interests.
+- I’m interested in good work.
 - How to reach me ... Send me mail or message.
 
 <!---
