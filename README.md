@@ -1,6 +1,6 @@
 - Hi, I’m @vinq
-- I’m interested in good work.
-- How to reach me ... Send me mail or message.
+- I’m interested in good regular job.
+- Please, send me mail or message.
 
 <!---
 vinq/vinq is a special repository because its `README.md` (this file) appears on your GitHub profile.
