@@ -1,6 +1,5 @@
 - Hi, I’m @vinq
-- I’m interested in good regular job.
-- Please, send me message.
+- I’m interested in remote programmer's work, just send me your good offer.
 
 <!---
 vinq/vinq is a special repository because its `README.md` (this file) appears on your GitHub profile.
